@@ -1,7 +1,0 @@
-# Build output
-bin/
-obj/
-
-# User-specific IDE files
-.vs/
-*.user
