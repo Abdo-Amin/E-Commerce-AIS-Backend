@@ -9,6 +9,7 @@
     <Project Path="ProductService.API/ProductService.Domain/ProductService.Domain.csproj" />
     <Project Path="ProductService.API/ProductService.Infrastructure/ProductService.Infrastructure.csproj" />
   </Folder>
+  <Project Path="ApiGateway/ApiGateway.csproj" />
   <Project Path="Cart.Api/Cart.Api.csproj" />
   <Project Path="Identity.Api/Identity.Api.csproj" />
   <Project Path="Order.Api/Order.Api.csproj" />

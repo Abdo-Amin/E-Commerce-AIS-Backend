@@ -11,8 +11,14 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProductService.Application\ProductService.Application.csproj" />
-    <ProjectReference Include="..\ProductService.Infrastructure\ProductService.Infrastructure.csproj" />
+    <ProjectReference Include="ProductService.Application\ProductService.Application.csproj" />
+    <ProjectReference Include="ProductService.Infrastructure\ProductService.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="ProductService.Application\**" />
+    <Compile Remove="ProductService.Domain\**" />
+    <Compile Remove="ProductService.Infrastructure\**" />
   </ItemGroup>
 
 </Project>
