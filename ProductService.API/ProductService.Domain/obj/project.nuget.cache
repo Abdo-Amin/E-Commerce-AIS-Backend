@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c4WpTLtKIK0=",
+  "success": true,
+  "projectFilePath": "/Users/belalbassem/Internship/E-Commerce-AIS-Backend/ProductService.API/ProductService.Domain/ProductService.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/belalbassem/.nuget/packages/microsoft.netcore.app.ref/8.0.30/microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "/Users/belalbassem/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.30/microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
