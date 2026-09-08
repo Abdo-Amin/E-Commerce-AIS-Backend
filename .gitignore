@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# User-specific IDE files
+.vs/
+*.user
+
+# Local configuration
+appsettings.json
+appsettings.*.json
+
+# Keep example configuration files trackable
+!appsettings.example.json
+!appsettings.*.example.json
